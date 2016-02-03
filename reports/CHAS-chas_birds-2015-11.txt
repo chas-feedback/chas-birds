@@ -1,0 +1,107 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 671
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 5
+	Country: France ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-12 ; Times: 3
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-24 ; Times: 7
+	Date: 2015-11-06 ; Times: 5
+	Date: 2015-11-23 ; Times: 3
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-19 ; Times: 10
+	Date: 2015-11-18 ; Times: 2
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aimophila aestivalis type:specimen preparations:skin institutioncode:CHAS" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "Columba livia domestica" ; Times: 1
+	Query: "institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:albicollis genus:zonotrichia year &gt;= 1890 year &lt;= 1895" ; Times: 1
+	Query: "aimophila aestivalis institutioncode:CHAS" ; Times: 1
+	Query: "aimophila aestivalis type:specimen institutioncode:CHAS" ; Times: 1
+	Query: "long-billed curlew year &gt;= 1800 year &lt;= 1900" ; Times: 2
+	Query: "specificepithet:sandwichensis genus:Passerculus year &gt;= 1894 year &lt;= 1894 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "class:aves locality:corpus christi year &gt;= 1899 year &lt;= 1899 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "carolina parakeet" ; Times: 2
+	Query: "long-billed curlew year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "long-billed curlew" ; Times: 1
+	Query: "Numenius borealis" ; Times: 9
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 3
+	Query: "plegadis falcinellus year &lt;= 1900" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "Conuropsis Florida" ; Times: 2
+	Query: "type:specimen order:Psittaciformes (militaris)" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; year &gt;= 1895 year &lt;= 1895 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 751 download events in this period)
+Total number of records downloaded: 588
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 14
+	Country: Sweden ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-19 ; Times: 3
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-23 ; Times: 3
+	Date: 2015-11-20 ; Times: 3
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Huachuca class:Aves year &gt;= 1894 year &lt;= 1896" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "Sterna fuscata" ; Times: 1
+	Query: "chrysococcyx klaas" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "Numenius borealis" ; Times: 3
+	Query: "(AM Ornithology)" ; Times: 1
+	Query: "Salpinctes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+
+
+End of report.
