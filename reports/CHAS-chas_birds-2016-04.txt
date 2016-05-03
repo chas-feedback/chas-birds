@@ -1,0 +1,135 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 1123
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 25
+	Country: United States ; Times: 41
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 5
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 5
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 6
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-23 ; Times: 1
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-26 ; Times: 3
+	Date: 2016-04-08 ; Times: 9
+	Date: 2016-04-18 ; Times: 4
+	Date: 2016-04-14 ; Times: 9
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 5
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 16
+	Date: 2016-04-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "MacFarlane June year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 4
+	Query: "specificepithet:ruficollis class:aves stateprovince:&#34;alaska&#34; country:&#34;united states&#34; year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "MacFarlane year &gt;= 1860 year &lt;= 1865" ; Times: 1
+	Query: "specificepithet:stagnatilis genus:tringa country:&#34;united states&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Agelaius phoeniceus California San Bernardino County victorville" ; Times: 1
+	Query: "Linton AND San Clemente Island" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica (juvenile)" ; Times: 1
+	Query: "type:specimen specificepithet:striata genus:Setophaga month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "MacFarlane year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "vermivora bachmanii institutioncode:CHAS" ; Times: 1
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "STREATOR AND ISLAND" ; Times: 1
+	Query: "&#34;vermivora bachmanii&#34;" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 1
+	Query: "elf" ; Times: 20
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "type:specimen specificepithet:striata genus:Setophaga" ; Times: 3
+	Query: "Bachman warbler" ; Times: 1
+	Query: "Contopus sordidulus Alberta" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "institutioncode:chas Psittacidae" ; Times: 1
+	Query: "passenger pigeon" ; Times: 3
+	Query: "eskimo curlew" ; Times: 3
+	Query: "Coccothraustes minnesota" ; Times: 1
+	Query: "type:specimen specificepithet:cyaneoviridis genus:Tachycineta" ; Times: 2
+	Query: "Podiceps auritus Ontario" ; Times: 10
+	Query: "Agelaius phoeniceus Florida Dade County" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 8
+	Query: "bahama swallow" ; Times: 1
+	Query: "specificepithet:bachmanii genus:Vermivora" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; country:&#34;united states&#34; recordedby:tevuk year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "Santa Cruz Island 1920 type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Melanerpes erythrocephalus Ontario" ; Times: 10
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1312 download events in this period)
+Total number of records downloaded: 492
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "class:Aves country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Passeridae Arizona" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
