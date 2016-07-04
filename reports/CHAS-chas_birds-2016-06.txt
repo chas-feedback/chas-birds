@@ -1,0 +1,108 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 580
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 20
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-23 ; Times: 4
+	Date: 2016-06-22 ; Times: 7
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Breninger AND 1903" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "Molothrus ater stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "Contopus sordidulus Alberta" ; Times: 2
+	Query: "dendroica dominica Chihuahua" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "dendroica magnolia AND (NOT Illinois) month &gt;= 5 month &lt;= 6 institutioncode:CHAS" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "pternistis afer" ; Times: 3
+	Query: "dendroica magnolia type:specimen AND (NOT Illinois) year &gt;= 1920 year &lt;= 2016 institutioncode:CHAS" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 5
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "Dendroica dominica Chihuahua" ; Times: 3
+	Query: "dendroica magnolia type:specimen AND (NOT Illinois) month &gt;= 5 month &lt;= 6 institutioncode:CHAS" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "great gray owl" ; Times: 1
+	Query: "Psaltriparus minimus AND CMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1052 download events in this period)
+Total number of records downloaded: 297
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "cottonwood springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "magnolia warbler" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
