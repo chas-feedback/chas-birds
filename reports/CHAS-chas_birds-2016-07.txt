@@ -1,0 +1,159 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 2102
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 43
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 2
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-26 ; Times: 2
+	Date: 2016-07-16 ; Times: 2
+	Date: 2016-07-06 ; Times: 3
+	Date: 2016-07-21 ; Times: 9
+	Date: 2016-07-17 ; Times: 4
+	Date: 2016-07-23 ; Times: 4
+	Date: 2016-07-19 ; Times: 3
+	Date: 2016-07-18 ; Times: 7
+	Date: 2016-07-08 ; Times: 2
+	Date: 2016-07-09 ; Times: 1
+	Date: 2016-07-13 ; Times: 4
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-12 ; Times: 1
+	Date: 2016-07-14 ; Times: 4
+	Date: 2016-07-22 ; Times: 2
+	Date: 2016-07-20 ; Times: 7
+	Date: 2016-07-15 ; Times: 3
+	Date: 2016-07-27 ; Times: 3
+	Date: 2016-07-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:occidentalis class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; institutioncode:CHAS" ; Times: 1
+	Query: "type:specimen specificepithet:galeata genus:gallinula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Linton AND Santa Cruz Island" ; Times: 1
+	Query: "institutioncode:CHAS" ; Times: 2
+	Query: "tufted puffin" ; Times: 2
+	Query: "egg roberts 1913" ; Times: 1
+	Query: "specificepithet:poensis genus:Laniarius" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 2
+	Query: "catalognumber:6649 institutioncode:CHAS" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "dryocopus pileatus virginia" ; Times: 2
+	Query: "Pacific Loon" ; Times: 2
+	Query: "buccinator" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "laniarius poensis" ; Times: 1
+	Query: "type:specimen genus:gallinula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:funereus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "18611" ; Times: 1
+	Query: "pigeon lake stateprovince:&#34;ontario&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 18
+	Query: "class:aves stateprovince:&#34;british columbia&#34; country:&#34;canada&#34; year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "melanerpes erythrocephalus virginia" ; Times: 3
+	Query: "Dendroica dominica Chihuahua" ; Times: 10
+	Query: "catalognumber:18421 institutioncode:CHAS" ; Times: 1
+	Query: "Aphelocoma wollweberi chihuahua" ; Times: 3
+	Query: "type:specimen specificepithet:pyrrhonota genus:petrochelidon class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: "Pigeon Lake Ontario" ; Times: 1
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1219 download events in this period)
+Total number of records downloaded: 428
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 3
+	Date: 2016-07-25 ; Times: 7
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-12 ; Times: 2
+	Date: 2016-07-20 ; Times: 6
+	Date: 2016-07-21 ; Times: 2
+	Date: 2016-07-22 ; Times: 4
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-19 ; Times: 2
+	Date: 2016-07-18 ; Times: 5
+	Date: 2016-07-09 ; Times: 1
+	Date: 2016-07-28 ; Times: 1
+	Date: 2016-07-26 ; Times: 6
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-07 ; Times: 1
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-15 ; Times: 4
+	Date: 2016-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "type:specimen specificepithet:savannarum genus:ammodramus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:accipiter class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:phoebe genus:sayornis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Luscinia svecica" ; Times: 1
+	Query: "type:specimen specificepithet:albicollis genus:zonotrichia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; institutioncode:CHAS" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "&#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:migratorius genus:turdus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:gramineus genus:pooecetes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:coronata genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pubescens genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:Aphelocoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:carolinus genus:melanerpes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;El paso&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:alpestris genus:eremophila class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "buccinator" ; Times: 1
+	Query: "type:specimen specificepithet:carolina genus:porzana class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ater genus:molothrus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "type:specimen specificepithet:funereus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "NICARAGUA" ; Times: 2
+	Query: "type:specimen specificepithet:acadicus genus:aegolius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:butorides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:agelaius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:oryzivorus genus:dolichonyx class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:rustica genus:hirundo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "type:specimen specificepithet:ruficapilla genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:herodias class:aves stateprovince:&#34;MICHIGAN&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "Polioptila californica" ; Times: 1
+	Query: "type:specimen specificepithet:pyrrhonota genus:petrochelidon class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Polioptila melanura californica" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "type:specimen specificepithet:noveboracensis genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; and &#34;California&#34;" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:cristata genus:cyanocitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+
+
+End of report.
