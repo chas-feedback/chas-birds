@@ -1,0 +1,312 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 594
+Number of records retrieved in searches: 2874
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 32
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 85
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 23
+	Country: Mexico ; Times: 9
+	Country: France ; Times: 3
+	Country: United States ; Times: 408
+	Country: Sweden ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Finland ; Times: 1
+	Country: China ; Times: 14
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 34
+	Date: 2018-06-06 ; Times: 19
+	Date: 2018-06-05 ; Times: 30
+	Date: 2018-06-04 ; Times: 10
+	Date: 2018-06-03 ; Times: 12
+	Date: 2018-06-02 ; Times: 11
+	Date: 2018-06-01 ; Times: 14
+	Date: 2018-06-25 ; Times: 76
+	Date: 2018-06-24 ; Times: 10
+	Date: 2018-06-27 ; Times: 10
+	Date: 2018-06-26 ; Times: 16
+	Date: 2018-06-21 ; Times: 31
+	Date: 2018-06-20 ; Times: 15
+	Date: 2018-06-23 ; Times: 14
+	Date: 2018-06-08 ; Times: 40
+	Date: 2018-06-09 ; Times: 13
+	Date: 2018-06-22 ; Times: 15
+	Date: 2018-06-10 ; Times: 14
+	Date: 2018-06-11 ; Times: 18
+	Date: 2018-06-12 ; Times: 13
+	Date: 2018-06-13 ; Times: 11
+	Date: 2018-06-14 ; Times: 6
+	Date: 2018-06-15 ; Times: 12
+	Date: 2018-06-16 ; Times: 15
+	Date: 2018-06-17 ; Times: 10
+	Date: 2018-06-18 ; Times: 15
+	Date: 2018-06-19 ; Times: 19
+	Date: 2018-06-30 ; Times: 12
+	Date: 2018-06-29 ; Times: 53
+	Date: 2018-06-28 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "class:aves locality:homer stateprovince:&#34;alaska&#34; year &gt;= 1901 year &lt;= 1901 month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "eskimo curlew vntype:specimen" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Bird:18113?seid=3397542&#34;" ; Times: 10
+	Query: "Bird egg" ; Times: 2
+	Query: "red partridge" ; Times: 4
+	Query: "mallard" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 4
+	Query: "wood duck" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "Garrulus glandarius" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 2
+	Query: "elf" ; Times: 2
+	Query: "scarlet tanager" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 2
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "Ploceidae" ; Times: 2
+	Query: "ring necked pheasant" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Bald eagle" ; Times: 2
+	Query: "northern hawk owl" ; Times: 3
+	Query: "elf owl" ; Times: 19
+	Query: "Pandion haliaetus" ; Times: 2
+	Query: "Black bear" ; Times: 1
+	Query: "blue grouse" ; Times: 14
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "tarpon" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "laterallus" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Bird:1129?seid=3395816&#34;" ; Times: 72
+	Query: "specificepithet:woodhouseii genus:Aphelocoma" ; Times: 1
+	Query: "specificepithet:townsendi genus:Setophaga" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "snowy owl" ; Times: 2
+	Query: "Barn Swallow vntype:specimen continent:North America year &gt;= 1950 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:poensis genus:laniarius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "laniarius poensis" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina" ; Times: 1
+	Query: "great horned owl" ; Times: 1
+	Query: "Gaviidae" ; Times: 2
+	Query: "grasshopper sparrow" ; Times: 3
+	Query: "calabasas" ; Times: 1
+	Query: "humming bird" ; Times: 4
+	Query: "Poecile hudsonicus" ; Times: 4
+	Query: "genus:Plegadis family:Threskiornithidae class:Aves" ; Times: 1
+	Query: "passerculus rostratus" ; Times: 1
+	Query: "Ampelis cedrorum" ; Times: 2
+	Query: "Batis" ; Times: 1
+	Query: "Agelaius floridanus" ; Times: 1
+	Query: "lagopus leucura" ; Times: 2
+	Query: "witch" ; Times: 14
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Empidonax flaviventris" ; Times: 1
+	Query: "&#34;J.D. Allen&#34; vntype:specimen" ; Times: 1
+	Query: "oaxaca country:&#34;mexico&#34; institutioncode:CHAS" ; Times: 1
+	Query: "western meadowlark" ; Times: 3
+	Query: "black bear" ; Times: 6
+	Query: "peregrine falcon" ; Times: 1
+	Query: "Setophaga caerulescens mappable:1" ; Times: 35
+	Query: "puffin" ; Times: 2
+	Query: "Regulus satrapa" ; Times: 2
+	Query: "21294" ; Times: 2
+	Query: "JR 290" ; Times: 1
+	Query: "stateprovince:&#34;Michigan&#34; recordedby:J.D. Allen" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 6
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "Pulchra" ; Times: 1
+	Query: "cupido" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Spinus tristis" ; Times: 40
+	Query: "passerculus rostratus (sandwichensis)" ; Times: 1
+	Query: "distance(location,geopoint(37.703859764372,-89.602791061395))&lt;13804" ; Times: 1
+	Query: "golden eagle" ; Times: 3
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "toxostoma arenicola" ; Times: 1
+	Query: "boreal chickadee" ; Times: 2
+	Query: "Poecile atricapilla" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "blue jay" ; Times: 3
+	Query: "stateprovince:&#34;arizona&#34; year &gt;= 1915 year &lt;= 1915" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "country:&#34;mexico&#34; institutioncode:CHAS" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "bald eagle" ; Times: 12
+	Query: "Spinus tristis mappable:1" ; Times: 5
+	Query: "distance(location,geopoint(39.8811126354848,-90.5450667498278))&lt;20513" ; Times: 1
+	Query: "arizona 04-30-1893" ; Times: 2
+	Query: "White-eyed Vireo" ; Times: 3
+	Query: "specificepithet:chrysoides genus:Colaptes AND (mearnsi)" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "numenius borealis" ; Times: 83
+	Query: "cerulean" ; Times: 1
+	Query: "sterna maxima" ; Times: 4
+	Query: "hairy woodpecker" ; Times: 1
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "cas 118940" ; Times: 2
+	Query: "county:&#34;Washtenaw&#34;" ; Times: 2
+	Query: "eskimo curlew" ; Times: 1
+	Query: "tringa totanus" ; Times: 2
+	Query: "class:aves locality:homer stateprovince:&#34;alaska&#34; year &gt;= 1901 year &lt;= 1901" ; Times: 2
+	Query: "Northern Goshawk" ; Times: 1
+	Query: "Barn Swallow vntype:specimen" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Bird:18112?seid=3392592&#34;" ; Times: 10
+	Query: "class:aves locality:homer stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1902" ; Times: 1
+	Query: "hasmedia:1" ; Times: 2
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "white-eyed vireo" ; Times: 5
+	Query: "black capped chickadee" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "locality:homer stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1902" ; Times: 1
+	Query: "locality:homer stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "horned puffin" ; Times: 1
+	Query: "specificepithet:poensis genus:laniarius" ; Times: 1
+	Query: "Junco hyemalis aikeni" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 3
+	Query: "vntype:specimen hasmedia:1" ; Times: 2
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 2
+	Query: "hummingbird" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Bird:1130?seid=3396284&#34;" ; Times: 72
+	Query: "common yellowthroat" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 2
+	Query: "grus canadensis" ; Times: 1
+	Query: "Missouri Chordata" ; Times: 1
+	Query: "western kingbird" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "Regulus obscurus" ; Times: 1
+	Query: "county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Barn Swallow vntype:specimen institutioncode:CHAS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 108 (out of 1169 download events in this period)
+Total number of records downloaded: 2862
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 24
+	Country: United States ; Times: 66
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 9
+	Date: 2018-06-06 ; Times: 12
+	Date: 2018-06-05 ; Times: 10
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-29 ; Times: 8
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 15
+	Date: 2018-06-23 ; Times: 6
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-15 ; Times: 8
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 2
+	Query: "snowy owl" ; Times: 2
+	Query: "horned puffin" ; Times: 1
+	Query: "order:Passeriformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "barn owl" ; Times: 1
+	Query: "specificepithet:poensis genus:laniarius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "chihuahua" ; Times: 2
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(35.784892341187586,-116.70189927220218))&lt;177353" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "humming bird" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "marbled murrelet" ; Times: 2
+	Query: "order:Accipitriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Ampelis cedrorum" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "elf owl" ; Times: 15
+	Query: "bald eagle" ; Times: 5
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "oregon" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "country:&#34;Ecuador&#34;" ; Times: 8
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "order:Galliformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "Aves class:Aves country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Strigiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+
+
+End of report.
