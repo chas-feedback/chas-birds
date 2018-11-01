@@ -1,0 +1,247 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 426
+Number of records retrieved in searches: 2922
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 353
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 40
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 5
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Germany ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Norway ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 29
+	Date: 2018-10-04 ; Times: 19
+	Date: 2018-10-05 ; Times: 10
+	Date: 2018-10-06 ; Times: 9
+	Date: 2018-10-01 ; Times: 20
+	Date: 2018-10-02 ; Times: 22
+	Date: 2018-10-03 ; Times: 39
+	Date: 2018-10-30 ; Times: 8
+	Date: 2018-10-22 ; Times: 12
+	Date: 2018-10-23 ; Times: 7
+	Date: 2018-10-20 ; Times: 7
+	Date: 2018-10-07 ; Times: 6
+	Date: 2018-10-26 ; Times: 13
+	Date: 2018-10-27 ; Times: 11
+	Date: 2018-10-24 ; Times: 8
+	Date: 2018-10-25 ; Times: 7
+	Date: 2018-10-28 ; Times: 7
+	Date: 2018-10-29 ; Times: 24
+	Date: 2018-10-08 ; Times: 11
+	Date: 2018-10-09 ; Times: 19
+	Date: 2018-10-19 ; Times: 6
+	Date: 2018-10-18 ; Times: 16
+	Date: 2018-10-13 ; Times: 12
+	Date: 2018-10-12 ; Times: 28
+	Date: 2018-10-11 ; Times: 14
+	Date: 2018-10-10 ; Times: 27
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 12
+	Date: 2018-10-15 ; Times: 15
+	Date: 2018-10-14 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "CAS 16909" ; Times: 1
+	Query: "american crow" ; Times: 2
+	Query: "Archilochus alexandri" ; Times: 1
+	Query: "auburn" ; Times: 1
+	Query: "aix sponsa" ; Times: 1
+	Query: "pica pica" ; Times: 2
+	Query: "preparations:skeleton institutioncode:CHAS" ; Times: 1
+	Query: "6006" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "house sparrow" ; Times: 2
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Snowy Owl" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 24
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Leucosticte dawsoni" ; Times: 3
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "17713" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "chapmani" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:wasleff year &gt;= 1940 year &lt;= 1948" ; Times: 1
+	Query: "flamingo" ; Times: 1
+	Query: "bird bones" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Bird:1129?seid=3395816&#34;" ; Times: 65
+	Query: "specificepithet:chrysaetos genus:aquila stateprovince:&#34;alaska&#34; year &gt;= 1947 year &lt;= 1947" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "county:&#34;Monroe&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "limosa lapponica baueri" ; Times: 1
+	Query: "strix nebulosa" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "Ammodramus savannarum floridanus" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "humboldt state" ; Times: 2
+	Query: "specificepithet:borealis genus:phylloscopus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "setophaga pinus" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "sapsucker" ; Times: 2
+	Query: "titmouse" ; Times: 2
+	Query: "tennessee warbler" ; Times: 1
+	Query: "Marsh Wren" ; Times: 1
+	Query: "9529" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:chrysaetos genus:aquila stateprovince:&#34;alaska&#34; year &gt;= 1945 year &lt;= 1949" ; Times: 1
+	Query: "snow bunting" ; Times: 3
+	Query: "northern cardinal" ; Times: 2
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 3
+	Query: "Campylorhynchus brunneicapillus mappable:1" ; Times: 3
+	Query: "witch" ; Times: 5
+	Query: "campephilus" ; Times: 14
+	Query: "locality:santa rita county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "Magnificent frigatebird" ; Times: 1
+	Query: "campephilus principalis" ; Times: 4
+	Query: "stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "specificepithet:rustica genus:hirundo locality:barrow stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "yellow rumped warbler" ; Times: 1
+	Query: "peregrine falcon" ; Times: 2
+	Query: "Setophaga caerulescens mappable:1" ; Times: 30
+	Query: "genus:Calidris sex:female (Oviduct OR ova OR gravid OR follicle OR egg)" ; Times: 2
+	Query: "specificepithet:serripennis genus:Stelgidopteryx class:Aves" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "Aix sponsa" ; Times: 3
+	Query: "&#34;lanius excubitor&#34;" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "locality:New York City stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "turkey vulture" ; Times: 1
+	Query: "ferruginous hawk" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei" ; Times: 1
+	Query: "Sooty grouse" ; Times: 1
+	Query: "Dendroica pinus" ; Times: 1
+	Query: "genus:aquila stateprovince:&#34;alaska&#34; year &gt;= 1947 year &lt;= 1947" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "black-crested titmouse" ; Times: 1
+	Query: "minnesota Catharus guttatus guttatus" ; Times: 1
+	Query: "county:&#34;Okeechobee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Great egret" ; Times: 4
+	Query: "vntype:specimen specificepithet:troglodytes genus:Troglodytes year &gt;= 2016 year &lt;= 2018" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+	Query: "genus:Mimus family:Mimidae order:Passeriformes class:Aves" ; Times: 1
+	Query: "Grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "Spinus tristis" ; Times: 36
+	Query: "specificepithet:colubris genus:Archilochus year &gt;= 1900 year &lt;= 1970" ; Times: 1
+	Query: "continent:South America preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Redondo county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "Seaside Sparrow" ; Times: 1
+	Query: "little blue heron" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Campephilus" ; Times: 1
+	Query: "poecile atricapillus" ; Times: 1
+	Query: "genus:Myadestes stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "ardea herodias" ; Times: 1
+	Query: "Dryobates pubescens" ; Times: 2
+	Query: "j 808" ; Times: 1
+	Query: "harris hawk" ; Times: 2
+	Query: "18237" ; Times: 1
+	Query: "greater prairie chicken" ; Times: 1
+	Query: "minnesota Catharus guttatus" ; Times: 1
+	Query: "California Santa Cruz County pipilo maculatus" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 1
+	Query: "Barn Swallow vntype:specimen" ; Times: 7
+	Query: "Aeronautes saxatalis" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:Myadestes stateprovince:&#34;Kansas&#34; month &gt;= 6 month &lt;= 12" ; Times: 1
+	Query: "zone-tailed hawk" ; Times: 3
+	Query: "cinclus mexicanus" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "cardinal" ; Times: 2
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Campephilus" ; Times: 1
+	Query: "bird bones museum" ; Times: 1
+	Query: "county:&#34;Monroe&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1996" ; Times: 1
+	Query: "turkey vulture country:&#34;United States&#34;" ; Times: 1
+	Query: "setophaga" ; Times: 1
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 4
+	Query: "bufflehead" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 2
+	Query: "specificepithet:tolmiei genus:Geothlypis class:Aves year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Bird:1130?seid=3396284&#34;" ; Times: 65
+	Query: "grus canadensis" ; Times: 2
+	Query: "minnesota &#34;Catharus guttatus guttatus&#34;" ; Times: 1
+	Query: "9801" ; Times: 1
+	Query: "king vulture" ; Times: 2
+	Query: "parus" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "west virginia" ; Times: 1
+	Query: "pagophila" ; Times: 1
+	Query: "Black Rail" ; Times: 2
+	Query: "sphyrapicus ruber" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1300 download events in this period)
+Total number of records downloaded: 552
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Belgium ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-15 ; Times: 5
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Myadestes stateprovince:&#34;Kansas&#34; month &gt;= 6 month &lt;= 12" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei" ; Times: 2
+	Query: "family:Apodidae" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "genus:Myadestes stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Megascops asio minnesota" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Spinus tristis" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+
+
+End of report.
