@@ -1,0 +1,266 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 228
+Number of records retrieved in searches: 3183
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 26
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 3
+	Country: United States ; Times: 187
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-11 ; Times: 7
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-13 ; Times: 17
+	Date: 2019-02-12 ; Times: 52
+	Date: 2019-02-15 ; Times: 7
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-17 ; Times: 3
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 7
+	Date: 2019-02-02 ; Times: 3
+	Date: 2019-02-03 ; Times: 7
+	Date: 2019-02-26 ; Times: 7
+	Date: 2019-02-01 ; Times: 20
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-04 ; Times: 39
+	Date: 2019-02-05 ; Times: 19
+	Date: 2019-02-08 ; Times: 8
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 7
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Certhia americana nigrescens mappable:1" ; Times: 1
+	Query: "Woodhouse’s Scrub-Jay" ; Times: 1
+	Query: "Melozone fusca fusca mappable:1" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "specificepithet:discors genus:Anas" ; Times: 1
+	Query: "ivory-billed woodpecker" ; Times: 2
+	Query: "genus:conuropsis" ; Times: 1
+	Query: "Polioptila melanura melanura mappable:1" ; Times: 1
+	Query: "Cardinalis cardinalis floridanus mappable:1" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Mountain bluebird" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Limpkin" ; Times: 1
+	Query: "Melanerpes carolinus institutioncode:CHAS" ; Times: 5
+	Query: "Toxostoma crissale mappable:1" ; Times: 1
+	Query: "Melozone crissalis senicula mappable:1" ; Times: 1
+	Query: "specificepithet:unicinctus genus:parabuteo class:Aves" ; Times: 1
+	Query: "genus:parabuteo class:Aves" ; Times: 1
+	Query: "Colaptes cafer collaris mappable:1" ; Times: 1
+	Query: "Dryobates pubescens gairdnerii mappable:1" ; Times: 1
+	Query: "specificepithet:versicolor genus:Passerina" ; Times: 2
+	Query: "Setophaga cerulea" ; Times: 2
+	Query: "specificepithet:pachyrhyncha genus:Rhynchopsitta country:&#34;United States&#34;" ; Times: 1
+	Query: "Vireo bellii county:&#34;los angeles&#34;" ; Times: 1
+	Query: "Phainopepla nitens lepida mappable:1" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 9
+	Query: "Sitta carolinensis aculeata mappable:1" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus couesi mappable:1" ; Times: 1
+	Query: "genus:Pipilo stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Aphelocoma woodhouseii year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "Amazona barbadensis" ; Times: 1
+	Query: "Dryobates pubescens pubescens mappable:1" ; Times: 1
+	Query: "western grebe" ; Times: 1
+	Query: "Toxostoma lecontei arenicola mappable:1" ; Times: 1
+	Query: "genus:micropsitta" ; Times: 3
+	Query: "swallow-tailed kite" ; Times: 2
+	Query: "Callipepla squamata mappable:1" ; Times: 1
+	Query: "specificepithet:canorus genus:Cuculus" ; Times: 2
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "Cardinalis sinuatus sinuatus mappable:1" ; Times: 1
+	Query: "Monk parakeet" ; Times: 1
+	Query: "Colaptes chrysoides mappable:1" ; Times: 1
+	Query: "Polioptila californica californica mappable:1" ; Times: 1
+	Query: "genus:micropsitta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "virginia rail" ; Times: 1
+	Query: "specificepithet:platypterus genus:Buteo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Butterfly" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius" ; Times: 1
+	Query: "canada jay" ; Times: 1
+	Query: "17499" ; Times: 1
+	Query: "18081" ; Times: 1
+	Query: "Sitta carolinensis nelsoni mappable:1" ; Times: 1
+	Query: "Callipepla gambelii gambelii mappable:1" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 3
+	Query: "Certhia americana occidentalis mappable:1" ; Times: 1
+	Query: "Corvus corax principalis mappable:1" ; Times: 1
+	Query: "specificepithet:prasina genus:erythrura class:aves" ; Times: 3
+	Query: "Towhee" ; Times: 1
+	Query: "Guaruba guarouba" ; Times: 1
+	Query: "specificepithet:macroura year &gt;= 1914 year &lt;= 1918" ; Times: 1
+	Query: "Cardinalis sinuatus mappable:1" ; Times: 7
+	Query: "specificepithet:caerulea interfusa genus:Passerina" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:porphyrio" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "Baeolophus ridgwayi" ; Times: 1
+	Query: "Amphispiza bilineata deserticola mappable:1" ; Times: 4
+	Query: "Amphispiza bilineata mappable:1" ; Times: 1
+	Query: "Colaptes chrysoides chrysoides mappable:1" ; Times: 1
+	Query: "Colaptes chrysoides mearnsi mappable:1" ; Times: 1
+	Query: "Barn Owl" ; Times: 2
+	Query: "Anser OR Chen AND rossii AND massing" ; Times: 1
+	Query: "california black bear" ; Times: 1
+	Query: "rynchops niger" ; Times: 4
+	Query: "Cardinalis cardinalis superbus mappable:1" ; Times: 1
+	Query: "Vireo bellii bellii mappable:1" ; Times: 3
+	Query: "Callipepla squamata squamata mappable:1" ; Times: 2
+	Query: "Siberian Wolf" ; Times: 2
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "specificepithet:flava genus:Piranga" ; Times: 3
+	Query: "Dryobates pubescens mappable:1" ; Times: 1
+	Query: "genus:Spiza" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND ruficapilla AND massing" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &lt;= 1955 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:Marcy" ; Times: 1
+	Query: "Colaptes cafer cafer mappable:1" ; Times: 1
+	Query: "Auriparus flaviceps mappable:1" ; Times: 2
+	Query: "Geothlypis AND trichas AND massing" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Pitangus sulphuratus  mappable:1" ; Times: 1
+	Query: "Egretta AND garzetta AND massing" ; Times: 1
+	Query: "Melozone crissalis crissalis mappable:1" ; Times: 1
+	Query: "Polioptila melanura mappable:1" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Melozone crissalis petulans mappable:1" ; Times: 1
+	Query: "Vireo bellii mappable:1" ; Times: 3
+	Query: "perisoreus canadensis" ; Times: 2
+	Query: "Melozone crissalis albigula mappable:1" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "Cardinalis cardinalis magnirostris mappable:1" ; Times: 1
+	Query: "Amphispiza bilineata bilineata mappable:1" ; Times: 3
+	Query: "Ara militaris" ; Times: 2
+	Query: "harris hawk" ; Times: 1
+	Query: "Snowy owl" ; Times: 2
+	Query: "common loon" ; Times: 2
+	Query: "specificepithet:americana genus:Spiza" ; Times: 1
+	Query: "atlantic puffin" ; Times: 2
+	Query: "(Aphelocoma) year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "north toe river" ; Times: 1
+	Query: "Dendroica OR Setophaga AND fusca AND massing" ; Times: 1
+	Query: "albigula" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 1
+	Query: "passenger pigeon" ; Times: 3
+	Query: "purple martin" ; Times: 6
+	Query: "tree swallow" ; Times: 1
+	Query: "Corvus corax sinuatus mappable:1" ; Times: 1
+	Query: "Dryobates pubescens leucurus mappable:1" ; Times: 1
+	Query: "Melozone fusca mesoleuca mappable:1" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Toxostoma crissale crissale mappable:1" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pavonina genus:Balearica" ; Times: 1
+	Query: "Certhia americana montana mappable:1" ; Times: 1
+	Query: "sedge wren" ; Times: 1
+	Query: "Phainopepla nitens nitens mappable:1" ; Times: 1
+	Query: "Toxostoma lecontei lecontei mappable:1" ; Times: 1
+	Query: "Cardinalis cardinalis canicaudus mappable:1" ; Times: 1
+	Query: "Melanitta americana" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "Aphelocoma woodhouseii year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 5
+	Query: "Ivory-billed Woodpecker" ; Times: 1
+	Query: "Auriparus flaviceps flaviceps mappable:1" ; Times: 5
+	Query: "crayfish" ; Times: 2
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "dryobates monticola" ; Times: 2
+	Query: "Polioptila californica mappable:1" ; Times: 1
+	Query: "passenger pigeon vntype:specimen" ; Times: 2
+	Query: "Dryobates pubescens medianus mappable:1" ; Times: 1
+	Query: "Branta AND canadensis OR hutchinsii AND massing" ; Times: 1
+	Query: "Setophaga fusca AND weight" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1227 download events in this period)
+Total number of records downloaded: 512
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 21
+	Country: United States ; Times: 12
+	Country: Israel ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 9
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-11 ; Times: 5
+	Date: 2019-02-03 ; Times: 3
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 6
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendroica OR Setophaga AND magnolia AND massing" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND peregrina AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND pensylvanica AND massing" ; Times: 1
+	Query: "Mniotilta AND varia AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND ruticilla AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND virens AND massing" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND celata AND massing" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND ruficapilla AND massing" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "Anser AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND tigrina AND massing" ; Times: 1
+	Query: "Geothlypis AND trichas AND massing" ; Times: 1
+	Query: "specificepithet:afer genus:Francolinus" ; Times: 1
+	Query: "Egretta AND garzetta AND massing" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "poecile Missouri" ; Times: 1
+	Query: "Setophaga virens AND weight" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "Dendroica OR Setophaga AND coronata OR auduboni AND massing" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &lt;= 1955 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:caerulea interfusa genus:Passerina" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:porphyrio" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Anser OR Chen AND rossii AND massing" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Dendroica OR Setophaga AND fusca AND massing" ; Times: 1
+	Query: "specificepithet:pachyrhyncha genus:Rhynchopsitta country:&#34;United States&#34;" ; Times: 1
+	Query: "Branta AND canadensis OR hutchinsii AND massing" ; Times: 1
+	Query: "Setophaga fusca AND weight" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
