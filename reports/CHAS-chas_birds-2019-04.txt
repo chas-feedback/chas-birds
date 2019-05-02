@@ -1,0 +1,218 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1436
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 3
+	Country: Slovenia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 15
+	Country: Japan ; Times: 2
+	Country: Nigeria ; Times: 1
+	Country: United States ; Times: 98
+	Country: Russia ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 8
+	Date: 2019-04-19 ; Times: 7
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-23 ; Times: 11
+	Date: 2019-04-13 ; Times: 3
+	Date: 2019-04-12 ; Times: 8
+	Date: 2019-04-11 ; Times: 7
+	Date: 2019-04-10 ; Times: 9
+	Date: 2019-04-17 ; Times: 8
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 7
+	Date: 2019-04-02 ; Times: 5
+	Date: 2019-04-03 ; Times: 15
+	Date: 2019-04-06 ; Times: 8
+	Date: 2019-04-22 ; Times: 12
+	Date: 2019-04-05 ; Times: 9
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-07 ; Times: 3
+	Date: 2019-04-26 ; Times: 7
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-25 ; Times: 14
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-08 ; Times: 5
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sturnus vulgaris vntype:specimen year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "chameleons" ; Times: 1
+	Query: "specificepithet:pileatus genus:Dryocopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "Hornbill" ; Times: 1
+	Query: "aves alaska tuparrow river" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "232248db-789c-47b3-b868-e9a19d6f2496" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "genus:Conuropsis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vulture" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "class:Aves catalognumber:17760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dryobates scalaris cactophilus" ; Times: 1
+	Query: "&#34; x &#34; order:Galliformes" ; Times: 1
+	Query: "order:Galliformes (hybrid)" ; Times: 3
+	Query: "guaruba guarouba" ; Times: 12
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 1
+	Query: "aves june 1932 Brower" ; Times: 1
+	Query: "contopus peninsulae" ; Times: 1
+	Query: "ummz" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 2
+	Query: "monk parakeet" ; Times: 2
+	Query: "great horned owl" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "tarsus vntype:specimen specificepithet:aedon genus:troglodytes" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 3
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "genus:lagopus" ; Times: 2
+	Query: "county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "ruffed grouse" ; Times: 3
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "willow flycatcher" ; Times: 1
+	Query: "class:Aves catalognumber:9325 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:7872 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:4731 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 2
+	Query: "Psittacula" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "specificepithet:olivacea genus:Piranga" ; Times: 2
+	Query: "Red-naped Sapsucker" ; Times: 2
+	Query: "red wolf" ; Times: 1
+	Query: "jack snipe" ; Times: 1
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "parkesia" ; Times: 1
+	Query: "melanerpes 1891" ; Times: 1
+	Query: "CAS 596" ; Times: 1
+	Query: "continent:africa institutioncode:CHAS" ; Times: 1
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ummz aves Illinois" ; Times: 1
+	Query: "calidris egg alaska 1932" ; Times: 1
+	Query: "specificepithet:luxuosus genus:cyanocorax" ; Times: 1
+	Query: "class:Aves catalognumber:5476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "golden eagle" ; Times: 3
+	Query: "CAS 596 Catharus" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 1
+	Query: "passenger pigeon" ; Times: 4
+	Query: "centurus 1891" ; Times: 1
+	Query: "aves Tupparow river alaska" ; Times: 1
+	Query: "10313" ; Times: 3
+	Query: "CAS 8241" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "11235" ; Times: 1
+	Query: "stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "class:Aves catalognumber:3282 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Agelaius phoeniceus Mendocino County" ; Times: 1
+	Query: "class:Aves catalognumber:9348 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "egg alaska brower" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "vntype:specimen county:&#34;lampasas&#34;" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "wing chord vntype:specimen specificepithet:aedon genus:troglodytes" ; Times: 1
+	Query: "Dovekie" ; Times: 1
+	Query: "Parkers Prairie" ; Times: 5
+	Query: "16987" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes class:Aves stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "walter koelz" ; Times: 5
+	Query: "R. I. Giles" ; Times: 1
+	Query: "Columba livia" ; Times: 3
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "Black-headed Grosbeak" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1950" ; Times: 1
+	Query: "aves chas. Brower June 1932" ; Times: 1
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:3837 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:strix" ; Times: 1
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "CAS 7465" ; Times: 1
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 5
+	Query: "agelaius megapotamus" ; Times: 2
+	Query: "49924" ; Times: 3
+	Query: "agelaius mearnsi" ; Times: 3
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "(Deer Creek Colorado)" ; Times: 1
+	Query: "golden-cheeked warbler" ; Times: 2
+	Query: "Common raven" ; Times: 1
+	Query: "class:Aves catalognumber:16591 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1263 download events in this period)
+Total number of records downloaded: 472
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 22
+	Country: Norway ; Times: 1
+	Country: Canada ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 11
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "Parkers Prairie" ; Times: 2
+	Query: "walter koelz" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Indiana" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Colorado" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "tarsus vntype:specimen specificepithet:aedon genus:troglodytes" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:luxuosus genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Wisconsin" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "specificepithet:sanblasianus genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Arizona" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Illinois" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Minnesota" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:beecheii genus:cyanocorax" ; Times: 1
+	Query: "guaruba guarouba" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:North Dakota" ; Times: 1
+	Query: "ummz aves Illinois" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Texas" ; Times: 1
+
+
+End of report.
