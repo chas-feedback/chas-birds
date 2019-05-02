@@ -1,0 +1,231 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 2236
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 145
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Philippines ; Times: 5
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 12
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: New Zealand ; Times: 3
+	Country: Norway ; Times: 5
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 2
+	Date: 2019-03-09 ; Times: 4
+	Date: 2019-03-27 ; Times: 7
+	Date: 2019-03-26 ; Times: 8
+	Date: 2019-03-25 ; Times: 11
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 3
+	Date: 2019-03-21 ; Times: 2
+	Date: 2019-03-20 ; Times: 7
+	Date: 2019-03-05 ; Times: 4
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 42
+	Date: 2019-03-01 ; Times: 4
+	Date: 2019-03-29 ; Times: 5
+	Date: 2019-03-22 ; Times: 4
+	Date: 2019-03-15 ; Times: 5
+	Date: 2019-03-30 ; Times: 14
+	Date: 2019-03-31 ; Times: 4
+	Date: 2019-03-03 ; Times: 6
+	Date: 2019-03-18 ; Times: 2
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-17 ; Times: 13
+	Date: 2019-03-14 ; Times: 15
+	Date: 2019-03-02 ; Times: 5
+	Date: 2019-03-12 ; Times: 9
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "corvus caurinus" ; Times: 3
+	Query: "Dryobates nuttallii" ; Times: 1
+	Query: "macon ga" ; Times: 1
+	Query: "yellow warbler" ; Times: 1
+	Query: "Chickadee" ; Times: 1
+	Query: "buteogallus anthracinus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Wisconsin" ; Times: 4
+	Query: "county:&#34;jefferson&#34; stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "Corvus corone" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "gray jay" ; Times: 1
+	Query: "porcher island" ; Times: 1
+	Query: "CM townsend" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:trichas year &gt;= 1909 year &lt;= 1909" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Iowa" ; Times: 4
+	Query: "Setophaga cerulea" ; Times: 2
+	Query: "blue grouse" ; Times: 1
+	Query: "Western scrub-jay" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 2
+	Query: "Melanerpes uropygialis Arizona" ; Times: 1
+	Query: "extinction data" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New Jersey" ; Times: 4
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "chameleons" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "yellowstone 1860" ; Times: 1
+	Query: "athene cunicularia hypugaea" ; Times: 1
+	Query: "Isla Guadalupe AND 1890" ; Times: 1
+	Query: "vntype:specimen specificepithet:madagascariensis genus:porphyrio" ; Times: 1
+	Query: "poecile carolinensis" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "indigo bunting" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "Butterfly" ; Times: 1
+	Query: "S/2016.1.8" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Indiana" ; Times: 4
+	Query: "streptopelia decaocto" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene" ; Times: 2
+	Query: "tree sparrow" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile" ; Times: 2
+	Query: "Cacicus melanicterus" ; Times: 2
+	Query: "juvenile OR immature OR young specificepithet:curvirostra genus:loxia stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "specificepithet:atricapillus genus:Poecile" ; Times: 1
+	Query: "clamator jacobinus" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Illinois" ; Times: 4
+	Query: "genus:Calcarius year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "Philippine bird specimens in MCZ" ; Times: 1
+	Query: "atlantic puffin" ; Times: 4
+	Query: "Cuculus canorus" ; Times: 5
+	Query: "black bear" ; Times: 1
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "franklinii" ; Times: 1
+	Query: "Philippine bird specimens in cj" ; Times: 1
+	Query: "Centurus uropygialis Arizona" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "ferruginous hawk" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile year &lt;= 1900" ; Times: 1
+	Query: "Pitta sordida year &gt;1990" ; Times: 1
+	Query: "Cynanthus doubledayi" ; Times: 5
+	Query: "opisthocomus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Phylloscopus borealis" ; Times: 1
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "LESSER FLAMINGO" ; Times: 2
+	Query: "black phoebe" ; Times: 4
+	Query: "Setophaga striata" ; Times: 1
+	Query: "laterallus jamaicensis jamaicensis" ; Times: 1
+	Query: "Philippine bird specimens in mcz" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;new mexico&#34;" ; Times: 3
+	Query: "Chestnut-backed chickadee" ; Times: 2
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Thryomanes bewickii charienturus" ; Times: 1
+	Query: "tufted titmouse" ; Times: 2
+	Query: "common goldeneye" ; Times: 2
+	Query: "northern pike" ; Times: 1
+	Query: "(yellow warbler)" ; Times: 1
+	Query: "Carrion Crow" ; Times: 3
+	Query: "Isla Guadalupe AND 1906" ; Times: 1
+	Query: "country:&#34;United States&#34; institutioncode:CHAS distance(location,geopoint(43.82350154288786,-83.69513969020227))&lt;389258" ; Times: 4
+	Query: "Island AND Streator" ; Times: 1
+	Query: "red crossbill" ; Times: 8
+	Query: "Lark sparrow" ; Times: 1
+	Query: "specimens of Alcedo from the Philippines" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 2
+	Query: "numenius borealis" ; Times: 2
+	Query: "Phainopepla" ; Times: 2
+	Query: "Philippine bird specimens in chas" ; Times: 1
+	Query: "Red wing black bird" ; Times: 1
+	Query: "Dryobates pubescens" ; Times: 1
+	Query: "15384" ; Times: 1
+	Query: "Dryobates borealis" ; Times: 3
+	Query: "Rostrhamus" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Colorado&#34; (immature OR juvenile)" ; Times: 1
+	Query: "Isla Guadalupe AND 1912" ; Times: 1
+	Query: "purple martin" ; Times: 1
+	Query: "phainopepla" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Colorado" ; Times: 4
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "specificepithet:corone genus:Corvus family:Corvidae order:Passeriformes class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus" ; Times: 2
+	Query: "Cyanocitta cristata hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricapillus genus:Poecile" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "class:aves stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Indigo Bunting" ; Times: 1
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 3
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "opisthocomus year &gt; 1990" ; Times: 1
+	Query: "Bell’s Vireo" ; Times: 3
+	Query: "clamator jacobinus africa" ; Times: 2
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "Poecile rufescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1281 download events in this period)
+Total number of records downloaded: 1049
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: United Kingdom ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "american coot" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Cynanthus doubledayi" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Colorado&#34; (immature OR juvenile)" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;north dakota&#34;" ; Times: 1
+
+
+End of report.
