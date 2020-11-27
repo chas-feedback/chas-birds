@@ -1,0 +1,244 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 221
+Number of records retrieved in searches: 3462
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 146
+	Country: Netherlands ; Times: 4
+	Country: Peru ; Times: 7
+	Country: Mexico ; Times: 18
+	Country: Denmark ; Times: 2
+	Country: Cuba ; Times: 13
+	Country: India ; Times: 9
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 12
+	Date: 2020-01-03 ; Times: 7
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 4
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 5
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-04 ; Times: 3
+	Date: 2020-01-21 ; Times: 9
+	Date: 2020-01-20 ; Times: 24
+	Date: 2020-01-09 ; Times: 13
+	Date: 2020-01-08 ; Times: 11
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 6
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 10
+	Date: 2020-01-28 ; Times: 10
+	Date: 2020-01-23 ; Times: 22
+	Date: 2020-01-14 ; Times: 12
+	Date: 2020-01-15 ; Times: 20
+	Date: 2020-01-16 ; Times: 6
+	Date: 2020-01-17 ; Times: 6
+	Date: 2020-01-10 ; Times: 7
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 9
+	Date: 2020-01-31 ; Times: 3
+	Date: 2020-01-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cirrhata genus:Lunda" ; Times: 2
+	Query: "yellow warbler" ; Times: 3
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "mallard" ; Times: 3
+	Query: "&#34;Empidonax traillii&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; basisofrecord:preservedspecimen" ; Times: 2
+	Query: "class:Aves country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "family:parulidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:aves country:mexico" ; Times: 1
+	Query: "mimus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "short-eared owl" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "opisthocomus" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; preparations:Skin" ; Times: 1
+	Query: "Cassiculus melanicterus" ; Times: 1
+	Query: "wings" ; Times: 1
+	Query: "dryobates arizonae" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 12
+	Query: "red knot" ; Times: 1
+	Query: "kentucky warbler" ; Times: 1
+	Query: "Brewer’s sparrow" ; Times: 2
+	Query: "specificepithet:platycercus genus:selasphorus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "red-throated thrush" ; Times: 2
+	Query: "Corvus corax" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "oreothlypis" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:bendire basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "parus vntype:specimen institutioncode:CHAS" ; Times: 1
+	Query: "18975" ; Times: 2
+	Query: "Purple Gallinule" ; Times: 1
+	Query: "American kestrel" ; Times: 2
+	Query: "(hoy)" ; Times: 1
+	Query: "genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 7
+	Query: "witch" ; Times: 1
+	Query: "Sphyrapicus ruber" ; Times: 1
+	Query: "setophaga fusca" ; Times: 1
+	Query: "mclean county il" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Melanitta perspicillata" ; Times: 2
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Passenger Pigeon" ; Times: 3
+	Query: "8743" ; Times: 1
+	Query: "dumatella carolinensis" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 3
+	Query: "boreal owl" ; Times: 1
+	Query: "dumatella" ; Times: 1
+	Query: "specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "golden eagle" ; Times: 2
+	Query: "eskimo curlew" ; Times: 7
+	Query: "Mallard Duck" ; Times: 2
+	Query: "class:aves recordedby:smith" ; Times: 2
+	Query: "cape may warbler" ; Times: 1
+	Query: "Sturnus" ; Times: 2
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "common poorwill" ; Times: 3
+	Query: "9623" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:suckley basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "Porphyrula martinica" ; Times: 2
+	Query: "richmondena" ; Times: 2
+	Query: "vireo bellii" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "recordedby:hunt" ; Times: 1
+	Query: "Lunda" ; Times: 1
+	Query: "strix varia" ; Times: 2
+	Query: "3868" ; Times: 1
+	Query: "bachman´s" ; Times: 1
+	Query: "Phalaenoptilus illinois" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 3
+	Query: "specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta class:Aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 3
+	Query: "colinus" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Xanthocephalus xanthocephalus" ; Times: 5
+	Query: "cardinal" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Northern shoveler" ; Times: 1
+	Query: "CHAS 15242" ; Times: 1
+	Query: "canadensis nebraska aves" ; Times: 1
+	Query: "Setophaga tigrina institutioncode:CHAS" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "british columbia 1929" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "short eared owl" ; Times: 2
+	Query: "Quiscalus quiscula" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:CHAS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hooded pitta" ; Times: 3
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 14
+	Query: "Phalaenoptilus" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides hasmass:1 haslength:1" ; Times: 1
+	Query: "passerculus sandwichensis beldingi" ; Times: 5
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Common merganser" ; Times: 2
+	Query: "bushtit" ; Times: 4
+	Query: "Black Rail" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1584 download events in this period)
+Total number of records downloaded: 657
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Canada ; Times: 1
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Cuba ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 8
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "eskimo curlew" ; Times: 1
+	Query: "class:aves county:&#34;humboldt&#34; recordedby:smith franklin" ; Times: 2
+	Query: "specificepithet:tephrocotis genus:leucosticte month &gt;= 5 month &lt;= 9 haslifestage:1" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "&#34;Sturnus vulgaris&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "Bubo virginianus" ; Times: 2
+
+
+End of report.
