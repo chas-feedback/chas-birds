@@ -1,0 +1,288 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 256
+Number of records retrieved in searches: 2861
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 7
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 202
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 8
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 9
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 6
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-13 ; Times: 5
+	Date: 2020-05-14 ; Times: 3
+	Date: 2020-05-15 ; Times: 21
+	Date: 2020-05-16 ; Times: 9
+	Date: 2020-05-30 ; Times: 3
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-09 ; Times: 11
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-07 ; Times: 93
+	Date: 2020-05-06 ; Times: 30
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-04 ; Times: 13
+	Date: 2020-05-01 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 3
+	Query: "16881" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "year &gt;= 1900 year &lt;= 1905 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "Loggerhead" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "Anas rubripes sex:male" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 2
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas sex:female" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "year &gt;= 1965 year &lt;= 1970 institutioncode:CHAS" ; Times: 7
+	Query: "elf" ; Times: 1
+	Query: "aves TRUE" ; Times: 1
+	Query: "Red River Gunn" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus sex:male" ; Times: 1
+	Query: "9738" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 4
+	Query: "specificepithet:acuta genus:Anas sex:male" ; Times: 1
+	Query: "1316" ; Times: 2
+	Query: "18482" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; lengthtype:total length haslength:1" ; Times: 3
+	Query: "specificepithet:Canadensis genus:Branta (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34; OR &#34;adult&#34; OR &#34;mature&#34; OR &#34;ad&#34;)" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:Egretta" ; Times: 1
+	Query: "Texas Limnothlypis swainsonii" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus sex:male" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas sex:female" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo sex:female" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:adult sex:female" ; Times: 1
+	Query: "wrentit" ; Times: 1
+	Query: "Charadrius nivosus" ; Times: 4
+	Query: "Salpinctes obsoletus" ; Times: 2
+	Query: "specificepithet:breweri genus:spizella class:aves stateprovince:&#34;california&#34; year &lt;= 1930 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "year &gt;= 1950 year &lt;= 1955 institutioncode:CHAS" ; Times: 1
+	Query: "pyrrhuloxia" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "year &gt;= 1970 year &lt;= 1973 institutioncode:CHAS" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 1
+	Query: "American Kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "American Kestrel" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:immature sex:male" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Zenaida macroura ws OR wingspan OR wing+span" ; Times: 9
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "year &gt;= 1969 year &lt;= 1984 institutioncode:CHAS" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus sex:female" ; Times: 1
+	Query: "1237" ; Times: 1
+	Query: "county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "Anas diazi lifestage:adult sex:male" ; Times: 1
+	Query: "(Red-cockaded Woodpecker)" ; Times: 3
+	Query: "Zenaida ws OR wingspan OR wing+span" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "year &gt;= 1980 year &lt;= 1985 institutioncode:CHAS" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; sex:male" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas sex:male" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "Texas Arenaria interpres" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis sex:male" ; Times: 1
+	Query: "&#34;Anas diazi&#34; sex:male" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "1927-04-26" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus sex:male" ; Times: 1
+	Query: "V-1132" ; Times: 3
+	Query: "16883" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "cardellina canadensis" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus sex:female" ; Times: 1
+	Query: "Anas diazi lifestage:adult sex:female" ; Times: 2
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "Charadrius nivosus AND (United)" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "quiscalus minnesota" ; Times: 2
+	Query: "specificepithet:crecca genus:Anas sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas sex:male" ; Times: 1
+	Query: "&#34;Anas diazi&#34; lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:immature sex:female" ; Times: 1
+	Query: "grackle" ; Times: 1
+	Query: "Anas rubripes" ; Times: 4
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus sex:female" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; sex:female" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis sex:female" ; Times: 1
+	Query: "Junco hyemalis Okanagan" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:juvenile sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:female" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 7
+	Query: "year &gt;= 1980 year &lt;= 1981 institutioncode:CHAS" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Washington&#34; lengthtype:total length haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:longicauda genus:Bartramia" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:female" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo sex:male" ; Times: 1
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "grackle minnesota" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:male" ; Times: 1
+	Query: "orange fronted parakeet" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas sex:male" ; Times: 1
+	Query: "Red River D. Gunn" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "aves de mexico" ; Times: 1
+	Query: "Estrilda astrild" ; Times: 1
+	Query: "year &gt;= 1920 year &lt;= 1925 institutioncode:CHAS" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Charadrius alexandrinus" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:male" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 3
+	Query: "genus:colinus stateprovince:&#34;tennessee&#34;" ; Times: 8
+	Query: "specificepithet:macularius genus:Actitis lifestage:immature sex:female" ; Times: 1
+	Query: "year &gt;= 1970 year &lt;= 1975 institutioncode:CHAS" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:female" ; Times: 1
+	Query: "pine siskin" ; Times: 1
+	Query: "year &gt;= 1970 year &lt;= 1979 institutioncode:CHAS" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:male" ; Times: 1
+	Query: "Dryobates ws OR wingspan OR wing+span" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:adult sex:male" ; Times: 1
+	Query: "Junco hyemalis oreganus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:male" ; Times: 2
+	Query: "specificepithet:bellii genus:Vireo lifestage:adult sex:female" ; Times: 1
+	Query: "Parus" ; Times: 2
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 5
+	Query: "american kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "american kestrel" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 6
+	Query: "hummingbird" ; Times: 1
+	Query: "Snowy plover" ; Times: 5
+	Query: "Red River &#34;D. Gunn&#34;" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:male" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 2
+	Query: "bird eggs white" ; Times: 1
+	Query: "golden-cheeked warbler" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "common grackle minnesota" ; Times: 1
+	Query: "year &gt;= 1983 year &lt;= 1984 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1106 download events in this period)
+Total number of records downloaded: 12407
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 7
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "petechia" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "class:(aves OR Aves) continent:North America" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "class:Aves" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "american kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+
+
+End of report.
