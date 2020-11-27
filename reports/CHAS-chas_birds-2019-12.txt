@@ -1,0 +1,182 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 189
+Number of records retrieved in searches: 1198
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 135
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Colombia ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-27 ; Times: 6
+	Date: 2019-12-26 ; Times: 14
+	Date: 2019-12-21 ; Times: 5
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-22 ; Times: 3
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-18 ; Times: 3
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 7
+	Date: 2019-12-12 ; Times: 6
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 7
+	Date: 2019-12-17 ; Times: 2
+	Date: 2019-12-30 ; Times: 11
+	Date: 2019-12-31 ; Times: 6
+	Date: 2019-12-09 ; Times: 17
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-06 ; Times: 12
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-04 ; Times: 30
+	Date: 2019-12-03 ; Times: 7
+	Date: 2019-12-02 ; Times: 23
+	Date: 2019-12-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Bald Eagle institutioncode:CHAS" ; Times: 1
+	Query: "mallard duck" ; Times: 2
+	Query: "song sparrow stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Aegolius funereus" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;colorado&#34; month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "house wren" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "lori" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "dwight junco" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 17
+	Query: "vulture" ; Times: 1
+	Query: "dickcissel" ; Times: 1
+	Query: "Cassiculus melanicterus" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 3
+	Query: "Callipepla californica californica" ; Times: 1
+	Query: "Eudocimus ibis" ; Times: 1
+	Query: "Pied Billed Grebe" ; Times: 1
+	Query: "specificepithet:americana genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "specificepithet:platycercus genus:selasphorus" ; Times: 6
+	Query: "Falco peregrinus" ; Times: 5
+	Query: "2013-1064" ; Times: 1
+	Query: "month &gt;= 12 month &lt;= 12 distance(location,geopoint(30.388861411120605,-87.20508770512714))&lt;15604" ; Times: 1
+	Query: "fort macon" ; Times: 3
+	Query: "nicobar pigeon" ; Times: 1
+	Query: "White Ibis" ; Times: 2
+	Query: "Pipilo fuscus senicula" ; Times: 1
+	Query: "cinclus mexicanus" ; Times: 1
+	Query: "L.R. Wolfe" ; Times: 10
+	Query: "Setophaga tigrina" ; Times: 2
+	Query: "Ivory Billed Woodpecker" ; Times: 1
+	Query: "Eremophila alpestris strigata 2009" ; Times: 6
+	Query: "young 1932" ; Times: 1
+	Query: "wood duck" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 2
+	Query: "marsh harrier" ; Times: 2
+	Query: "genus:Ramphastos" ; Times: 1
+	Query: "(Bald eagle)" ; Times: 6
+	Query: "spinus tristis pallidus" ; Times: 1
+	Query: "Eremophila alpestris strigata 2016" ; Times: 6
+	Query: "24368" ; Times: 1
+	Query: "Eremophila alpestris strigata 2019" ; Times: 6
+	Query: "peregrine falcon" ; Times: 2
+	Query: "Molothrus ater obscurus" ; Times: 9
+	Query: "Head hasmass:1 haslength:1" ; Times: 1
+	Query: "junco dwight" ; Times: 1
+	Query: "specificepithet:lagopus genus:lagopus preparations:skin" ; Times: 1
+	Query: "17045" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "HARRIER" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "specificepithet:brasilianum genus:Glaucidium class:Aves stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 1984" ; Times: 6
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco" ; Times: 2
+	Query: "Eremophila alpestris strigata 1987" ; Times: 6
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "genus:Sphyrapicus locality:blue canyon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;california&#34; country:&#34;united states&#34; recordedby:Allen year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "limpkin" ; Times: 1
+	Query: "american golden plover" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Polioptila californica" ; Times: 5
+	Query: "Eudocimus albus" ; Times: 2
+	Query: "carolina parakeet basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Picoides+scalaris" ; Times: 1
+	Query: "spinus tristis salicamans" ; Times: 1
+	Query: "franklinii franklinii" ; Times: 1
+	Query: "chroicocephalus philadelphia" ; Times: 1
+	Query: "Himantopus AND Island" ; Times: 1
+	Query: "song sparrow" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 2
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Thryomanes bewickii marin county nicasio" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;colorado&#34;" ; Times: 3
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "vntype:specimen family:Anatidae class:Aves locality:Greenland" ; Times: 1
+	Query: "Buteo jamaicensis 1937" ; Times: 1
+	Query: "cmnh" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "specificepithet:ypecaha genus:Aramides mappable:1" ; Times: 1
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 4
+	Query: "specificepithet:pictus genus:Myioborus mappable:1" ; Times: 1
+	Query: "Thryomanes bewickii sonoma california" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "ovary" ; Times: 3
+	Query: "specificepithet:palustris genus:Cistothorus (306)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 596 download events in this period)
+Total number of records downloaded: 156
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Hong Kong ; Times: 3
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "spinus tristis pallidus" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis salicamans" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
