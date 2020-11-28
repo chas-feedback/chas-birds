@@ -1,0 +1,201 @@
+Report for Institution Code CHAS, Resource chas_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 292
+Number of records retrieved in searches: 2876
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Qatar ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Unknown ; Times: 17
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 75
+	Country: Sweden ; Times: 3
+	Country: Mexico ; Times: 161
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-27 ; Times: 22
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-03 ; Times: 7
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-04 ; Times: 7
+	Date: 2020-07-07 ; Times: 13
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-29 ; Times: 10
+	Date: 2020-07-18 ; Times: 6
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-12 ; Times: 5
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 11
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-16 ; Times: 5
+	Date: 2020-07-31 ; Times: 91
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 11
+	Date: 2020-07-15 ; Times: 7
+	Date: 2020-07-28 ; Times: 48
+	Date: 2020-07-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 68
+	Query: "specificepithet:huttoni genus:Vireo county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:CHAS" ; Times: 1
+	Query: "CHAS bachmanii" ; Times: 2
+	Query: "accipiter gentilis" ; Times: 3
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "house sparrow" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 2
+	Query: "CincinnatI" ; Times: 1
+	Query: "los angeles county museum" ; Times: 1
+	Query: "scientificname:Spinus tristis" ; Times: 2
+	Query: "genus:Bubo" ; Times: 3
+	Query: "buteo jamaicensis harlani" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "Irazú" ; Times: 1
+	Query: "worm-eating warbler" ; Times: 1
+	Query: "sporophila minuta" ; Times: 1
+	Query: "surinamensis" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Bird:1129?seid=3395816&#34;" ; Times: 3
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "buteo harlani Illinois" ; Times: 1
+	Query: "Wagner" ; Times: 1
+	Query: "Rhinoptilus cinctus" ; Times: 3
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "(Norway)" ; Times: 3
+	Query: "JR 203" ; Times: 1
+	Query: "DMNS" ; Times: 1
+	Query: "buteo jamaicensis harlani Illinois" ; Times: 1
+	Query: "Roberts-Coe" ; Times: 2
+	Query: "northern cardinal" ; Times: 2
+	Query: "ruffed grouse" ; Times: 1
+	Query: "La Sierra" ; Times: 1
+	Query: "numenius americanus" ; Times: 1
+	Query: "spinus tristis" ; Times: 2
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Bird:7670?seid=3398359&#34;" ; Times: 3
+	Query: "campephilus principalis" ; Times: 10
+	Query: "atlantic puffin" ; Times: 1
+	Query: "rhynchopsitta" ; Times: 2
+	Query: "Gray Jay" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "genus:bubo" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 57
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 3
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Squamata hybrid" ; Times: 1
+	Query: "Fort Thorne" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "bubo virginianus" ; Times: 2
+	Query: "fm bailey" ; Times: 1
+	Query: "2201" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "Ardea alba alba" ; Times: 1
+	Query: "specificepithet:occidentalis" ; Times: 1
+	Query: "fratercula corniculata" ; Times: 1
+	Query: "Piranga flava" ; Times: 1
+	Query: "chroicocephalus philadelphia" ; Times: 10
+	Query: "Buteo cooperii" ; Times: 2
+	Query: "Aegolius funereus richardsoni" ; Times: 1
+	Query: "1592" ; Times: 1
+	Query: "northern goshawk" ; Times: 2
+	Query: "county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "vireo bellii" ; Times: 1
+	Query: "genus:loxia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "umbagog" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "alticola" ; Times: 1
+	Query: "piranga flava" ; Times: 1
+	Query: "Chroicocephalus philadelphia" ; Times: 3
+	Query: "4456" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "Aphelocoma woodhouseii" ; Times: 1
+	Query: "turtle data" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "Buteo harlani" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 2
+	Query: "scientificname:Setophaga caerulescens" ; Times: 2
+	Query: "A-315" ; Times: 1
+	Query: "Thalasseus acuflavidus" ; Times: 3
+	Query: "megaceryle alcyon" ; Times: 3
+	Query: "grus canadensis tabida" ; Times: 1
+	Query: "gbifdatasetid:16965647-4120-4e0b-aa57-1eeaf028606e" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Bird:1130?seid=3396284&#34;" ; Times: 3
+	Query: "7333" ; Times: 2
+	Query: "grus canadensis" ; Times: 1
+	Query: "limnodromus griseus" ; Times: 12
+	Query: "Buteo harlani Iowa" ; Times: 3
+	Query: "4567" ; Times: 2
+	Query: "Accipiter gentilis mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 940 download events in this period)
+Total number of records downloaded: 176
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cackling goose" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "northern cardinal" ; Times: 1
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+
+
+End of report.
